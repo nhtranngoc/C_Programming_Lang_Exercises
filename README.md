@@ -8,9 +8,16 @@ For now, all of the exercises are complied using
 
 `clang -std=c99 [file]`
 
+Which should result in `a.out` (Unix) and `a.exe` (Windows)
+
+# Testing
+So far some of the exercises come with a test file, this could be either `.txt` or `.c`. To use, pipe file into binary stdinput: 
+
+`cat test.txt | .\a.out`
+
 # Status
 
-## Chapter 1 - 21/24
+## Chapter 1 - 23/24
 ## Chapter 2 - 0/10
 ## Chapter 3 - 0/6
 ## Chapter 4 - 0/14
@@ -19,4 +26,4 @@ For now, all of the exercises are complied using
 ## Chapter 7 - 0/9
 ## Chapter 8 - 0/8
 
-## Total: 21/97 exercises completed
+## Total: 23/97 exercises completed
