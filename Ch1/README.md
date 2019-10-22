@@ -31,8 +31,8 @@
 - [x] Exercise 20
 - [x] Exercise 21
 - [ ] Exercise 22
-- [ ] Exercise 23
-- [ ] Exercise 24
+- [x] Exercise 23
+- [x] Exercise 24
 
 # To-do's
 
