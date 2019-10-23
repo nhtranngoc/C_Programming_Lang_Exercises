@@ -18,7 +18,7 @@ So far some of the exercises come with a test file, this could be either `.txt` 
 # Status
 
 ## Chapter 1 - 23/24
-## Chapter 2 - 0/10
+## Chapter 2 - 6/10
 ## Chapter 3 - 0/6
 ## Chapter 4 - 0/14
 ## Chapter 5 - 0/20
@@ -26,4 +26,4 @@ So far some of the exercises come with a test file, this could be either `.txt` 
 ## Chapter 7 - 0/9
 ## Chapter 8 - 0/8
 
-## Total: 23/97 exercises completed
+## Total: 29/97 exercises completed
