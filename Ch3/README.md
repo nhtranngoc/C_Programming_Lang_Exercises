@@ -6,8 +6,8 @@
 
 [x] Exercise 3
 
-[ ] Exercise 4
-[ ] Exercise 5
-[ ] Exercise 6
+[x] Exercise 4
+[x] Exercise 5
+[x] Exercise 6
 
 
