@@ -1,6 +1,6 @@
 # Status
 
-[ ] Exercise 1
+[x] Exercise 1
 
 [ ] Exercise 2
 
