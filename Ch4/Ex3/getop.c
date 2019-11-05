@@ -9,12 +9,22 @@ int getop(char s[]) {
 
 	s[1] = '\0';
 	lastc = c;
-	if(!isdigit(c) && c != '.' && !isdigit(getch())) {
-		printf("%c\n", c);
+	if(!isdigit(c) && c != '.' && c != '-') {
 		return c; //Not a number
 	}
 
 	i = 0;
+
+	if(c == '-') {
+		char get_tmp = getch();
+		if(isdigit(get_tmp)) { //Peek to check if negative number
+			ungetch(get_tmp);	// Put dat shit back
+			s[++i] = c = getch(); // Grab it for real
+		} else {
+			return c;
+		}
+	}
+
 	if(isdigit(c)) {
 		while(isdigit(s[++i] = c = getch()));
 	}
