@@ -12,3 +12,7 @@
 [ ] Exercise 8
 [ ] Exercise 9
 [ ] Exercise 10
+[ ] Exercise 11
+[x] Exercise 12
+[x] Exercise 13
+[x] Exercise 14
