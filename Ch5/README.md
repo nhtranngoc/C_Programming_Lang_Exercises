@@ -1,12 +1,12 @@
 # Status
 
-[ ] Exercise 1
-[ ] Exercise 2
+[x] Exercise 1
+[x] Exercise 2
 
-[ ] Exercise 3
-[ ] Exercise 4
-[ ] Exercise 5
-[ ] Exercise 6
+[x] Exercise 3
+[x] Exercise 4
+[x] Exercise 5
+[x] Exercise 6
 
 [ ] Exercise 7
 
